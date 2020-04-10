@@ -1,0 +1,129 @@
+/**{border:1px solid red;}*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height:1.6;
+    background: #ADD8E6;
+}
+
+header{
+    background: #ADD8E6;
+    padding:1px;
+    text-align:center;
+    color:#ffffff;
+}
+.container{
+    margin:auto;
+    width: 450px;
+    height:900px;
+    overflow: auto;
+    padding: 3px 2px;
+    border-radius: 17px 17px 17px 0px;
+    background:#fff;
+}
+#my-form{
+    padding:8px 0px 10px 35px;
+    margin:1px;
+    color:#0f0f92;
+    font-size:13px;
+}
+.login{
+    text-align:center;
+    
+}
+#my-form h5{
+    color: #221f1f;
+}
+#my-form label{
+        color:rgb(53, 50, 50);
+        text-align:left;
+    }
+input[type=text]{
+    width:90%;
+    height:40px;
+    padding:8px 0px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #edf2f7;
+    text-align:left;
+    }
+input[type=text]{
+        width:90%;
+        height:40px;
+        padding:8px 0px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background: #edf2f7;
+        text-align:left;
+        }
+input[type=text]{
+       width:90%;
+      height:40px;
+    padding:8px 0px;
+    margin: 8px 0;
+    display: inline-block;
+     border: 1px solid #ccc;
+     border-radius: 5px;
+    background: #edf2f7;
+    text-align:left;
+            }
+input[type=text]{
+                width:90%;
+                height:40px;
+                padding:8px 0px;
+                margin: 8px 0;
+                display: inline-block;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+                background: #edf2f7;
+                text-align:left;
+               }
+input[type=text]{
+              width:90%;
+              height:40px;
+                padding:8px 0px;
+                margin: 8px 0;
+                display: inline-block;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+                background: #edf2f7;
+                text-align:left;
+                    }
+input[type=text]{
+width:90%;
+height:40px;
+padding:8px 0px;
+margin: 8px 0;
+display: inline-block;
+border: 1px solid #ccc;
+border-radius: 5px;
+background: #edf2f7;
+text-align:left;
+ }
+.btn{
+    display:inline-block;
+    padding:14px 20px;
+    border:none;
+    cursor:pointer;
+    background:blue;
+    color:#fff;
+    border-radius:10px 10px 10px 0px;
+    height:60px;
+    width:90%;
+    margin:8px 0;
+}
+.btn:hover{
+    background:#0f0f80;}
+
+.footer{
+    text-align:center;
+    font-size:14px;
+    text-decoration:none;
+}
+a:link{
+    text-decoration:none;
+    color:#ffffff;
+}
